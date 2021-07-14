@@ -11,7 +11,7 @@ On my Github, you'll find some of the projects I've created so far. One of the m
 
 -A Django-JavaScript [site](https://github.com/cossentino/daily_circ) that adds some serendipity to the news you read<br>
 -A ReactJS-TailwindCSS [data-visualization tool](https://github.com/cossentino/covid_frontend_react) displaying real-time updating trends in COVID-19 data across the US<br>
--A Rails-ERB CRUD budgeting app that keeps track of your monthly expenses<br>
+-A Rails-ERB CRUD [budgeting app](https://github.com/cossentino/on-track-2) that keeps track of your monthly expenses<br>
 
 
 You can find my LinkedIn profile [here](https://www.linkedin.com/in/cossentino/). And my resume [here](https://drive.google.com/file/d/11neo-Lh-Gz3E5xnl7OgEV5-48amDo9d9/view?usp=sharing).<br>
