@@ -1,22 +1,13 @@
-### Hi there 👋
 
-My name is Ian Cossentino and I'm a full-stack software engineer, primarily coding in Python, ReactJS, and Ruby.<br>
+My path to a career as a coder began after collaborating with machine learning experts on research to make predictions about patient outcomes. This work exposed me to the potential for software to improve our lives through leveraging large datasets, hastening technological development, and permitting new areas of inquiry.
 
-*I'm currently looking for a full-time position to start my career as a developer!*<br>
+Inspired by this, I devoted my “COVID year” to learning the tools of full-stack development, both independently and through the Flatiron School. I immediately found the work inherently satisfying. Like great architects can be as insightful and creative as they are ultra-precise and efficient, software engineers must do the same as the architects of code. It involves deep focus on a challenging problem, open-mindedness to new ways of doing things, and constant learning to keep pace with the field.
 
-I discovered my love for coding while working as a clinical researcher, collaborating with machine learning experts on research studying software that predicts patient outcomes. In the following months, I quickly came to see how software engineering's mix of logic puzzles, opportunities for creativity, and never-ending challenges are a perfect fit for my interests. I'm searching for a role that lets me code as much as possible and learn as much as possible in a community of passionate engineers.<br>
+Through my experience in neuroscience and clinical research, I practiced data analysis, meticulous record-keeping, and a steady commitment to a long-term goal, which will all serve me well going forward. 
 
-On my Github, you'll find some of the projects I've created so far. One of the most compelling uses for the web is to organize and share information to increase the efficiency of our work and home life. Here on my GitHub, you can find some web applications that do just that:<br>
+Now I am searching for a role where I can learn as much as possible, write a lot of code, and work in a community devoted to shaping the future with software.
 
-
--A Django-JavaScript [site](https://github.com/cossentino/daily_circ) that adds some serendipity to the news you read<br>
--A ReactJS-TailwindCSS [data-visualization tool](https://github.com/cossentino/covid_frontend_react) displaying real-time updating trends in COVID-19 data across the US<br>
--A Rails-ERB CRUD [budgeting app](https://github.com/cossentino/on-track-2) that keeps track of your monthly expenses<br>
-
-
-You can find my LinkedIn profile [here](https://www.linkedin.com/in/cossentino/). And my resume [here](https://drive.google.com/file/d/11neo-Lh-Gz3E5xnl7OgEV5-48amDo9d9/view?usp=sharing).<br>
-
-Reach out to me via my LinkedIn profile above, or at my email <icossentino@gmail.com>
+Talk to me anytime about: Python | Django | JavaScript | ReactJS | Ruby | Genetics | Moving from the North to the South and back again | Long-distance running | Italian food
 
 
 <!--
