@@ -1,13 +1,4 @@
-
-My path to a career as a coder began after collaborating with machine learning experts on research to make predictions about patient outcomes. This work exposed me to the potential for software to improve our lives through leveraging large datasets, hastening technological development, and permitting new areas of inquiry.
-
-Inspired by this, I devoted my “COVID year” to learning the tools of full-stack development, both independently and through the Flatiron School. I immediately found the work inherently satisfying. Like great architects can be as insightful and creative as they are ultra-precise and efficient, software engineers must do the same as the architects of code. It involves deep focus on a challenging problem, open-mindedness to new ways of doing things, and constant learning to keep pace with the field.
-
-Through my experience in neuroscience and clinical research, I practiced data analysis, meticulous record-keeping, and a steady commitment to a long-term goal, which will all serve me well going forward. 
-
-Now I am searching for a role where I can learn as much as possible, write a lot of code, and work in a community devoted to shaping the future with software.
-
-Talk to me anytime about: Python | Django | JavaScript | ReactJS | Ruby | Genetics | Moving from the North to the South and back again | Long-distance running | Italian food
+Bioinformatics software engineer at Cell Signaling Technology
 
 
 <!--
