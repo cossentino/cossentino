@@ -1,4 +1,4 @@
-Bioinformatics software engineer at Cell Signaling Technology
+<!-- Bioinformatics software engineer at Cell Signaling Technology -->
 
 
 <!--
